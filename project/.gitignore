@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+
+# User-specific IDE files
+*.user
+.vs/
+.vscode/
+
+# NuGet packages (restored automatically)
+packages/
+*.nupkg
+
+# Secrets / config overrides
+appsettings.Development.json
+*.pfx
+*.key
+
+# OS noise
+.DS_Store
+Thumbs.db
